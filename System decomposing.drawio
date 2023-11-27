@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T21:25:43.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LmZZfYMpCR5D2rDISeDS" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T21:27:07.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I3SHR5VGV4QX-xagvLzb" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
     <mxGraphModel dx="2358" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="oo8sN6_ggJGR6Yn4_sQh-1" value="Надання послуг продажу побутової техніки&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo8sN6_ggJGR6Yn4_sQh-2" value="Прийом замовлень клієнитів на товари" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo8sN6_ggJGR6Yn4_sQh-3" value="Обробка замовлень клієнтів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo8sN6_ggJGR6Yn4_sQh-4" value="Пошук та пакування замовлених товарів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo8sN6_ggJGR6Yn4_sQh-5" value="Доставка замовлення" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
