@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T21:39:59.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EH7vhwdG_aeFzjhZNM_D" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T21:45:27.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SzlnonhQ1B8I55O_aEyY" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
-    <mxGraphModel dx="943" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
             <mxPoint x="580" y="450" as="sourcePoint" />
             <mxPoint x="580" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oo8sN6_ggJGR6Yn4_sQh-18" value="Пакування замовлених товарів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
