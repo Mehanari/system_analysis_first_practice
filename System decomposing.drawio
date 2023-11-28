@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T12:22:28.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e3GMhvZwy-Q14DpXEj51" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T12:24:01.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Gg9MiyjDEo0qazhk7S-C" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
     <mxGraphModel dx="1523" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
             <mxPoint x="69" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vKA4W-cYFfW-JW-G8aKG-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Формування плану збору замовлених товарів&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В:&amp;nbsp;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД:&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="1224" width="198" height="113" as="geometry" />
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Формування плану збору замовлених товарів&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ обробки замовлень, відділ логістики&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Комп&#39;ютери, система керування крамницями, застосунок планування логістики&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-4" y="1219" width="198" height="135" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-21" target="vKA4W-cYFfW-JW-G8aKG-22" parent="1">
           <mxGeometry relative="1" as="geometry" />
