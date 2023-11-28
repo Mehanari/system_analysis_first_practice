@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:49:28.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GPu8PiY6d3Swu842IbCP" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T11:49:50.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FTL8upBnqc531FQ2l3D5" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
     <mxGraphModel dx="1747" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,19 +143,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Прийом замовлення клієнта на товари&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ по роботі з клієнтами&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Комп&#39;ютери, система обліку товарів&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="860" width="228" height="113" as="geometry" />
+          <mxGeometry x="-8" y="860" width="198" height="113" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Оформлення та збереження замовлення клієнта&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ по роботі з клієнтами&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Комп&#39;ютери, система обліку замовлень&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="860" width="230" height="113" as="geometry" />
+          <mxGeometry x="320" y="860" width="200" height="113" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Обробка замовлення&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ обробки замовлень, персонал крамниць&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Комп&#39;ютери, система керування обробкою замовлень&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1060" width="230" height="110" as="geometry" />
+          <mxGeometry x="320" y="1060" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Доставка замовлення&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ доставки, кур&#39;єри&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Транспорт&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="1060" width="228" height="110" as="geometry" />
+          <mxGeometry x="-8" y="1060" width="198" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-6" value="Клієнт" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-163" y="1057" width="30" height="60" as="geometry" />
+          <mxGeometry x="-120" y="990" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-7" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vKA4W-cYFfW-JW-G8aKG-6" target="vKA4W-cYFfW-JW-G8aKG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
