@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:55:37.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UDJCJjRDv2YFEFeGKAzD" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T11:58:40.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HQNEP7ZTtFOVbUHv3AFS" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
-    <mxGraphModel dx="1523" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,6 +205,68 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-16" value="Доставлене замовлення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-15">
+          <mxGeometry x="-0.1043" relative="1" as="geometry">
+            <mxPoint x="69" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Формування плану збору замовлених товарів&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД:&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-4" y="1224" width="198" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-21" target="vKA4W-cYFfW-JW-G8aKG-22" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-20" value="Оформлене замовлення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-19">
+          <mxGeometry x="-0.1043" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Пошук та групування товарів&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В:&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД:&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1224" width="200" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Обробка замовлення&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ обробки замовлень, персонал крамниць&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Комп&#39;ютери, система керування обробкою замовлень&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1414" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Доставка замовлення&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;В: Відділ доставки, кур&#39;єри&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;ЗД: Транспорт&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-4" y="1424" width="198" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-24" value="Клієнт" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="1354" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-25" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-24" target="vKA4W-cYFfW-JW-G8aKG-18" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-66" y="1394" as="sourcePoint" />
+            <mxPoint x="-16" y="1344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-26" value="Замовленн клієнта на товари" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-25">
+          <mxGeometry x="-0.3056" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-27" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-18" target="vKA4W-cYFfW-JW-G8aKG-21" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-91" y="1364" as="sourcePoint" />
+            <mxPoint x="6" y="1262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-22" target="vKA4W-cYFfW-JW-G8aKG-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="1347" as="sourcePoint" />
+            <mxPoint x="434" y="1434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-30" value="Зібране та упаковане&lt;br&gt;замовлення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-29">
+          <mxGeometry x="-0.1043" relative="1" as="geometry">
+            <mxPoint x="-2" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-23" target="vKA4W-cYFfW-JW-G8aKG-24" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-16" y="1524" as="sourcePoint" />
+            <mxPoint x="-146" y="1524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-32" value="Доставлене замовлення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-31">
           <mxGeometry x="-0.1043" relative="1" as="geometry">
             <mxPoint x="69" y="-27" as="offset" />
           </mxGeometry>
