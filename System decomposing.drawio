@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T12:14:31.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LM9N3j9VhnxdnR_WfedR" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T12:18:44.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Eue_VmQuWAp8W4gMUtdt" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
     <mxGraphModel dx="2026" dy="870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
             <mxPoint x="-20" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vKA4W-cYFfW-JW-G8aKG-8" value="Замовленн клієнта на товари" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-7">
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-8" value="Замовлення клієнта на товари" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-7">
           <mxGeometry x="-0.3056" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -231,6 +231,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-66" y="1394" as="sourcePoint" />
             <mxPoint x="-16" y="1344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-25">
+          <mxGeometry x="-0.362" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vKA4W-cYFfW-JW-G8aKG-27" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" source="vKA4W-cYFfW-JW-G8aKG-18" target="vKA4W-cYFfW-JW-G8aKG-21" parent="1">
