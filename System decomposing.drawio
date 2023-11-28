@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T12:33:18.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1Jz7vA_rSQJDFtKh6O8m" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T12:34:32.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="z4yJ_IHKJgj8O4fBUvtk" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="-wcUGpMdyS8KykL0Yxfp">
     <mxGraphModel dx="1747" dy="721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-16" y="1524" as="sourcePoint" />
             <mxPoint x="-146" y="1524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vKA4W-cYFfW-JW-G8aKG-39" value="Звіт по вартості&amp;nbsp;&lt;br&gt;замовлення" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vKA4W-cYFfW-JW-G8aKG-31">
+          <mxGeometry x="0.2878" y="-2" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
