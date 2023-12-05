@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T19:56:30.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gJ8-WZpJq1McGOfBhPnj" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T19:57:05.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KHgsQzGHYvQ22uLi_Y69" version="22.1.5" type="github">
   <diagram name="Страница — 1" id="abeItS0DTZ43whYvkSR8">
-    <mxGraphModel dx="1185" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-6" value="Полегшити процес ствоерння замовлення клієнтом&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="100" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-8" value="Прискорити доступ до документів пов&#39;язаних із замовленнями" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="120" height="80" as="geometry" />
@@ -68,10 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-17" value="Створити зручний інтерфейс обробки замовлень" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="40" y="504" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-18" value="Створити онлайн систему обліку замовлень" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="190" y="505" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="w6v1x1wFfDmxcHy3iJqM-17" target="w6v1x1wFfDmxcHy3iJqM-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,10 +98,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-1" value="Створити систему моніторингу наявності товарів у крамницях" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="490" y="504" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-2" value="Створити інструкції по розподілу товарів по кармницям" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="340" y="505" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6jcjCnrCG8_cXWkytDmZ-2" target="w6v1x1wFfDmxcHy3iJqM-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,10 +116,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-5" value="Створити систему моніторингу наявності обладнання у крамницях" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="640" y="505" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-6" value="Створити інструкції по забезпеченню крамниць обладнанням" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="505" width="110" height="80" as="geometry" />
+          <mxGeometry x="790" y="504" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6jcjCnrCG8_cXWkytDmZ-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6jcjCnrCG8_cXWkytDmZ-5" target="w6v1x1wFfDmxcHy3iJqM-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
