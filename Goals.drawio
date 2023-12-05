@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T19:38:40.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VF20k-mbCrPLJhgtWi--" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T19:38:59.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LhYuox5aTcQ-9chN27L1" version="22.1.5" type="github">
   <diagram name="Страница — 1" id="abeItS0DTZ43whYvkSR8">
     <mxGraphModel dx="988" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="w6v1x1wFfDmxcHy3iJqM-17" value="Створити зручний інтерфейс обробки замовлень" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w6v1x1wFfDmxcHy3iJqM-18" value="Створити електронну систему обліку замовлень" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w6v1x1wFfDmxcHy3iJqM-18" value="Створити онлайн систему обліку замовлень" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="490" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
