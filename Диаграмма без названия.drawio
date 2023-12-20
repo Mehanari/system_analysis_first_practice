@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T23:51:25.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HA_wf-EIeue57MgDrllB" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T23:53:21.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6kIbj_n8-tTKmNhMTGtG" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="3spQ1OdB81bb0q3GTsnV">
     <mxGraphModel dx="2901" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="370" y="950" as="sourcePoint" />
             <mxPoint x="530" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuA1bw3WOwrKZyjwUTwy-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Oxygen&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- &amp;lt;&amp;lt;SerializeField&amp;gt;&amp;gt; _onOxygenCollected: UnityEvent&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- _amount: int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SetAmount(amount: int)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CollectOxygen(astronaut: Unit)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zuA1bw3WOwrKZyjwUTwy-27" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="zuA1bw3WOwrKZyjwUTwy-26" target="zuA1bw3WOwrKZyjwUTwy-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="650" as="sourcePoint" />
+            <mxPoint x="470" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
